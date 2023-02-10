@@ -1,4 +1,4 @@
-name: amd64-config
+name: ar750-config
 
 on:
   workflow_dispatch:
